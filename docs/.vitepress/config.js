@@ -9,7 +9,7 @@ export default {
     nav: [
       {
         text: "Changelog",
-        items: [{ text: "v0.0.1", link: "/item-1" }],
+        items: [{ text: "v0.0.1", link: "/index" }],
       },
     ],
     // socialLinks: [
