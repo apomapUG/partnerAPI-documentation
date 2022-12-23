@@ -12,11 +12,11 @@ export default {
         items: [{ text: "v0.0.1", link: "/item-1" }],
       },
     ],
-    socialLinks: [
-      { icon: "github", link: "https://github.com/Evavic44/adocs" },
-      { icon: "twitter", link: "https://twitter.com/victorekea" },
-      { icon: "discord", link: "..." },
-    ],
+    // socialLinks: [
+    //   { icon: "github", link: "https://github.com/Evavic44/adocs" },
+    //   { icon: "twitter", link: "https://twitter.com/victorekea" },
+    //   { icon: "discord", link: "..." },
+    // ],
     sidebar: [
       {
         text: "",
