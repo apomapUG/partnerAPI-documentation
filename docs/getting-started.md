@@ -10,4 +10,4 @@ You can access our GraphQL API endpoint via this URL:
 
 ---
 
-To see how to use our API, visit [this link](https://desktop.postman.com/?desktopVersion=10.6.0&userId=24692927&teamId=2506557) for examples and inspirations.
+To see how to use our API, visit [this link](https://sg3n2u-5173.preview.csb.app/) for examples and inspirations.
