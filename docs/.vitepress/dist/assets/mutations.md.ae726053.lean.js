@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as n,a as s}from"./app.d637ae10.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mutations.md"}'),o={name:"mutations.md"},t=s("",4),r=[t];function l(p,c,i,m,d,g){return n(),e("div",null,r)}const _=a(o,[["render",l]]);export{u as __pageData,_ as default};

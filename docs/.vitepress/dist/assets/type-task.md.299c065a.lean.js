@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as i}from"./app.d637ae10.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"type-task.md"}'),r={name:"type-task.md"},n=i("",2),l=[n];function d(s,o,g,y,c,h){return a(),e("div",null,l)}const f=t(r,[["render",d]]);export{_ as __pageData,f as default};

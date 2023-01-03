@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a as d}from"./app.d637ae10.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"type-driver.md"}'),i={name:"type-driver.md"},a=d("",2),o=[a];function n(s,_,c,h,l,p){return r(),e("div",null,o)}const v=t(i,[["render",n]]);export{m as __pageData,v as default};

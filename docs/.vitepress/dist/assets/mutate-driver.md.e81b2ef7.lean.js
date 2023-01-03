@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.d637ae10.js";const m=JSON.parse('{"title":"Mutate Driver","description":"","frontmatter":{},"headers":[],"relativePath":"mutate-driver.md"}'),l={name:"mutate-driver.md"},t=e("",25),o=[t];function p(r,c,i,u,d,C){return n(),a("div",null,o)}const y=s(l,[["render",p]]);export{m as __pageData,y as default};

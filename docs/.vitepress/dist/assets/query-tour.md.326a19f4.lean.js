@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.d637ae10.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"query-tour.md"}'),l={name:"query-tour.md"},p=e("",22),o=[p];function t(r,c,i,u,C,d){return n(),a("div",null,o)}const h=s(l,[["render",t]]);export{y as __pageData,h as default};

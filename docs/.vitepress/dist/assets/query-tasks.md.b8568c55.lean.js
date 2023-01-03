@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.d637ae10.js";const q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"query-tasks.md"}'),p={name:"query-tasks.md"},e=l("",27),o=[e];function t(c,r,C,A,i,u){return a(),n("div",null,o)}const D=s(p,[["render",t]]);export{q as __pageData,D as default};

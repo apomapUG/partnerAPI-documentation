@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.d637ae10.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"query-locations.md"}'),l={name:"query-locations.md"},p=e("",21),o=[p];function t(c,r,i,C,A,u){return n(),a("div",null,o)}const h=s(l,[["render",t]]);export{y as __pageData,h as default};
