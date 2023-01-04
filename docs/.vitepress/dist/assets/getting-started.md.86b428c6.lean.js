@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as r}from"./app.d637ae10.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"getting-started.md"}'),o={name:"getting-started.md"},s=r("",7),n=[s];function i(d,p,c,h,u,_){return a(),t("div",null,n)}const g=e(o,[["render",i]]);export{m as __pageData,g as default};
